@@ -1,0 +1,5 @@
+# The Lambda runtime's bundled boto3 predates the S3 object-annotation
+# APIs (put_object_annotation, get_object_annotation,
+# list_object_annotations), so a newer boto3 is vendored into the
+# deployment package at synth time.
+boto3==1.43.77

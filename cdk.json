@@ -1,0 +1,16 @@
+{
+  "app": "python3 -m pip install --quiet --no-input --only-binary=:all: --upgrade --requirement lambda_functions/enrichment/requirements.txt --target .build/lambda-dependencies/python && python3 app.py",
+  "context": {
+    "project_prefix": "s3-enrich",
+    "model_id": "amazon.nova-pro-v1:0",
+    "max_content_length": 10000,
+    "annotation_prefix": "ai",
+    "lambda_reserved_concurrency": 10,
+    "lambda_memory_mb": 1024,
+    "lambda_timeout_minutes": 5,
+    "event_filter_prefix": "documents/",
+    "event_filter_suffix": ".txt",
+    "enable_annotation_tables": true,
+    "enable_query_stack": false
+  }
+}

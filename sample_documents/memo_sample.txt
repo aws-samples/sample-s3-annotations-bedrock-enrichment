@@ -1,0 +1,22 @@
+INTERNAL MEMORANDUM
+
+To: All Product and Engineering Staff
+From: Elena Vashko, Chief Product Officer, Harborlight Software (fictional)
+Date: February 3, 2025
+Subject: Aurora Dashboard Launch Timeline Update
+
+Team,
+
+I want to share an updated timeline for the Aurora Dashboard launch and clarify responsibilities for the remaining milestones.
+
+Following last week's beta review, we are moving the general availability date from March 10 to March 24, 2025. The two-week shift gives the platform team time to complete the performance work identified during load testing, where dashboard render times exceeded our 800-millisecond target under peak concurrency.
+
+Key dates are as follows. Beta feedback triage closes on February 14, owned by Dev Okafor and the product analytics group. The performance remediation sprint runs February 17 through March 7, led by Tomas Reinholt. Release candidate sign-off is scheduled for March 14, and the marketing team, coordinated by Suki Tanabe, will begin customer communications on March 17.
+
+Please hold all non-critical feature merges to the release branch until sign-off. Any change requests after February 28 require my approval and a written risk assessment.
+
+I recognize the schedule change affects several downstream commitments, particularly the Meridian customer webinar. Suki's team is rescheduling that event for early April and will confirm details this week.
+
+Thank you for the continued focus. Questions can be directed to me or your functional lead.
+
+Elena

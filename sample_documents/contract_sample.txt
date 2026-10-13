@@ -1,0 +1,20 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is entered into on March 15, 2025, by and between Northwind Cloudworks LLC, a fictional limited liability company with its principal office at 400 Harborview Plaza, Seattle, Washington ("Provider"), and Bluepeak Analytics Inc., a fictional corporation headquartered at 88 Meridian Avenue, Denver, Colorado ("Client").
+
+1. Services. Provider agrees to deliver managed data platform services, including pipeline monitoring, storage optimization, and quarterly architecture reviews, as described in Statement of Work No. 2025-014. Services shall commence on April 1, 2025, and continue through March 31, 2026, unless terminated earlier under Section 6.
+
+2. Compensation. Client shall pay Provider a monthly fee of $18,500, invoiced on the first business day of each month. Invoices are payable within thirty (30) days. A one-time onboarding fee of $7,250 is due upon execution of this Agreement. Late payments accrue interest at 1.5% per month.
+
+3. Points of Contact. Provider designates Marcus Feldwin, Director of Client Services, as its primary contact. Client designates Priya Ramaswamy, Vice President of Operations, as its primary contact. Either party may change its contact by written notice.
+
+4. Confidentiality. Each party shall protect the other party's confidential information with at least the same degree of care it uses for its own, and no less than reasonable care, for a period of three (3) years following termination.
+
+5. Limitation of Liability. Neither party's aggregate liability shall exceed the fees paid in the twelve (12) months preceding the claim, except for breaches of Section 4.
+
+6. Termination. Either party may terminate for material breach with thirty (30) days written notice if the breach remains uncured.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+Signed: Marcus Feldwin, Northwind Cloudworks LLC
+Signed: Priya Ramaswamy, Bluepeak Analytics Inc.
